@@ -1,5 +1,5 @@
 .navbar {
-  width: 458px;
+  width: 468px;
 }
 .navbar ul {
   padding-bottom: 10px;
@@ -9,17 +9,16 @@
   padding: 0px;
 }
 .hero {
-  width: 458px;
+  width: 133vw;
 }
 .work h1 {
   width: 122%;
 }
 .gridContainer {
   flex-direction: column;
-  width: 117%;
+  width:125vw;
 }
 .gridItem img {
-  width: 100%;
   height: 182px;
 }
 .box {
@@ -27,15 +26,17 @@
 }
 .cert {
   flex-direction: column;
-  width: 123%;
+  width: 130vw;
 }
 .certItem {
+  text-align: center;
   padding: 1px;
 }
 .test {
   margin: 3px 19px;
   padding: 4px 20px;
-  width: 100%;
+  width: 110vw;
+  text-align: center;
 }
 .test p {
   font-size: 18px;
@@ -44,7 +45,7 @@ div.testHeader {
   width: 122%;
 }
 .container {
-  width: 100%;
+  width:120vw;
 }
 p.shift {
   font-size: 18px;
